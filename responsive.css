@@ -1,0 +1,18 @@
+/* breakpoint for anything larger than a smart phone screen */
+@media screen and (min-width: 480px) {
+	body {
+		background: navy;
+	}
+}
+
+
+
+/* breakpoint for large tablets */
+@media screen and (min-width: 660px) {
+	body {
+		background: darkgreen;
+	}
+}
+
+
+/* breakpoint for typical computer screens */
