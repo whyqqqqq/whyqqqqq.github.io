@@ -14,9 +14,8 @@ Note to self (put this on a blog somewhere):
   - black and white (check contrast)
   - blur
   - flip upside down (symmetry)
-  - 
+
 - test on tablets, smartphone, etc (or screen shot service)
 - test different browers
 - Validate HTML and CSS: validator.w3.org
-- 
 
